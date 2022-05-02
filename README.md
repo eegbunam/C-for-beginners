@@ -8,9 +8,8 @@
 
 By Ebuka Egbunam
 
-:::warning
 
-**Excuse my grammatical errors I had no autocomplete on vscode ::joy::**
+**:warning: Excuse my grammatical errors I had no autocomplete on vscode ::joy::**
 
 
-:::
+
